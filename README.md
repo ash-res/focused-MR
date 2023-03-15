@@ -1,9 +1,8 @@
 # focused-MR
 
-"Selection of invalid instruments can improve estimation in Mendelian randomization"   
+"Selecting invalid instruments to improve Mendelian randomization with two-sample summary data"   
 by Ashish Patel, Francis J. DiTraglia, Verena Zuber, and Stephen Burgess
 
-* load R code to run the method: source(focused_mr.R)
+* load R code to run the method: source(focusedMR.R)
 
-* includes R scripts to run the data examples used in the paper
-(see vitD_CHD.R, vitD_MS.R, SBP_CHD.R, SBP_AD.R)
+* includes R script (vitaminD.R) to run the vitamin D data example from the paper
